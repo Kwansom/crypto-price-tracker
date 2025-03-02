@@ -10,7 +10,7 @@ module.exports = {
       title: "Crypto Price Tracker",
       items: [
         {
-          to: "docs/intro",
+          to: "/docs/intro",
           label: "Docs",
           position: "left",
         },
